@@ -3,7 +3,7 @@ Introduction to Python
 
 Project 1 - Ask the user for their favorite animal and then print out that that is their favorite animal
 
-Project 2a - Returns the average of 5 numbers that the user inputs
+Project 2a - Returns the average of 5 numbers that the user inputs <br>
 Project 2b - Convert user input Celsius temperature to Fahrenheit
 Project 2c - User inputs amount less than a dollar and returns change in quantity of quarters, dime, nickel, penny
 
